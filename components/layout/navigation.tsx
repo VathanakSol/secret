@@ -2,7 +2,7 @@ import { Home, DollarSign } from "lucide-react";
 import Link from "next/link";
 
 const navItems = [
-  { href: "/", label: "Home", icon: Home },
+  { href: "/", label: "ផ្ទះ", icon: Home },
 ];
 
 export default function Navbar() {
